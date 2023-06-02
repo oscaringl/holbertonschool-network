@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This comand list all TCP or UDP ports that are being active
+sudo netstat -tunlp
